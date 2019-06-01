@@ -6,6 +6,11 @@ This list aggregates the best resources for [ZEIT Integrations](https://zeit.co/
 
 - [API Clients](#api-clients)
 - [Starters](#starters)
+- [Documentation](#documentation)
+- [Examples](#examples)
+### Documentation
+
+- [Official ZEIT Integration Docs](https://zeit.co/docs/integrations/)
 
 ### API Clients
 
@@ -14,6 +19,10 @@ This list aggregates the best resources for [ZEIT Integrations](https://zeit.co/
 ### Starters
 
 - [zeit-integration-starter-offline](https://github.com/manguluka/zeit-integration-starter-offline) - Offline-first starter and component showcase for Zeit Integrations.
+
+### Example Projects
+
+- [Official integrations from the ZEIT team](https://github.com/zeit/integrations)
 
 ## Contribute
 
