@@ -20,7 +20,7 @@ This list aggregates the best resources for [ZEIT Integrations](https://zeit.co/
 
 - [zeit-integration-starter-offline](https://github.com/manguluka/zeit-integration-starter-offline) - Offline-first starter and component showcase for Zeit Integrations.
 
-### Example Projects
+### Examples
 
 - [Official integrations from the ZEIT team](https://github.com/zeit/integrations)
 
