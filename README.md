@@ -24,6 +24,7 @@ This list aggregates the best resources for [ZEIT Integrations](https://zeit.co/
 
 - [Official integrations from the ZEIT team](https://github.com/zeit/integrations)
 - [ZEIT Integration in Bash](https://github.com/manguluka/zeit-integration-bash) Illustrating how simple a ZEIT Integration can be. Working implementation in a few lines of Bash using tools included by default in most unix-like environments
+- [Router for ZEIT Integrations](https://github.com/ph1p/zeit-integration-router)
 
 ## Contribute
 
