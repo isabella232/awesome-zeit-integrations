@@ -14,11 +14,12 @@ This list aggregates the best resources for [ZEIT Integrations](https://zeit.co/
 
 ### API Clients
 
-- [zeit-api-client](https://github.com/manguluka/zeit-api-client) - API client for the Zeit Platform.
+- [now-integration](https://github.com/karaggeorge/now-integration) - A Framework for creating ZEIT Integrations
+- [zeit-api-client](https://github.com/manguluka/zeit-api-client) - API client for the ZEIT Platform.
 
 ### Starters
 
-- [zeit-integration-starter-offline](https://github.com/manguluka/zeit-integration-starter-offline) - Offline-first starter and component showcase for Zeit Integrations.
+- [zeit-integration-starter-offline](https://github.com/manguluka/zeit-integration-starter-offline) - Offline-first starter and component showcase for ZEIT Integrations.
 
 ### Examples
 
