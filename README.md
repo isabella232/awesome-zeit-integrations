@@ -19,7 +19,7 @@ This list aggregates the best resources for [ZEIT Integrations](https://zeit.co/
 
 ### Tools & Utilities
 
-- [zeit-integration-inspect](https://github.com/leoafarias/zeit-integration-inspect) - Quickly inspect values during Zeit Integrations development.
+- [zeit-integration-inspect](https://github.com/leoafarias/zeit-integration-inspect) - Quickly inspect values during ZEIT Integrations development.
 
 
 ### Starters
